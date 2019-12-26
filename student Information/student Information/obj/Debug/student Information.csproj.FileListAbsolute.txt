@@ -1,0 +1,20 @@
+G:\Day-01\student Information\student Information\bin\Debug\student Information.exe.config
+G:\Day-01\student Information\student Information\bin\Debug\student Information.exe
+G:\Day-01\student Information\student Information\bin\Debug\student Information.pdb
+G:\Day-01\student Information\student Information\obj\Debug\student Information.csprojAssemblyReference.cache
+G:\Day-01\student Information\student Information\obj\Debug\student_Information.Properties.Resources.resources
+G:\Day-01\student Information\student Information\obj\Debug\student Information.csproj.GenerateResource.cache
+G:\Day-01\student Information\student Information\obj\Debug\student Information.csproj.CoreCompileInputs.cache
+G:\Day-01\student Information\student Information\obj\Debug\student Information.exe
+G:\Day-01\student Information\student Information\obj\Debug\student Information.pdb
+G:\Day-01\student Information\student Information\obj\Debug\student_Information.Student.resources
+G:\Day-05\student Information\student Information\bin\Debug\student Information.exe.config
+G:\Day-05\student Information\student Information\bin\Debug\student Information.exe
+G:\Day-05\student Information\student Information\bin\Debug\student Information.pdb
+G:\Day-05\student Information\student Information\obj\Debug\student Information.csprojAssemblyReference.cache
+G:\Day-05\student Information\student Information\obj\Debug\student_Information.Student.resources
+G:\Day-05\student Information\student Information\obj\Debug\student_Information.Properties.Resources.resources
+G:\Day-05\student Information\student Information\obj\Debug\student Information.csproj.GenerateResource.cache
+G:\Day-05\student Information\student Information\obj\Debug\student Information.csproj.CoreCompileInputs.cache
+G:\Day-05\student Information\student Information\obj\Debug\student Information.exe
+G:\Day-05\student Information\student Information\obj\Debug\student Information.pdb
